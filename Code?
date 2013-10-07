@@ -1,0 +1,6 @@
+public class WhatAmIDoing{
+
+  public static void main(String [] args){
+    System.out.println("What the heck am I doing?")
+  }
+}
